@@ -3,9 +3,9 @@
 
 ### 2.Reliability
 #### Hardware Faults
-
-
-
+#### Software Errors
+systematic failure
+#### Human Errors
 
 
 ### 3.Scalability
