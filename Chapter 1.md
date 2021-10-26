@@ -1,12 +1,12 @@
 ## Chapter 1 Reliable, Scalable, and Maintainable Applications
-### Thinking about data systems
+### 1.Thinking about data systems
 
-### Reliability
+### 2.Reliability
 #### Hardware Faults
 
 
 
 
 
-### Scalability
-### Maintainability
+### 3.Scalability
+### 4.Maintainability
