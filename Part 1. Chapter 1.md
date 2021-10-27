@@ -3,18 +3,18 @@
 ### 1.Thinking about data systems
 
 ### 2.Reliability
-#### Hardware Faults
-#### Software Errors
+#### 1)Hardware Faults
+#### 2)Software Errors
 systematic failure
-#### Human Errors
+#### 3)Human Errors
 
 ### 3.Scalability
-#### Describling load
+#### 1)Describling load
 The example of Twitter: p11-p13
-#### Describing performance
-#### Approaches for coping with load
+#### 2)Describing performance
+#### 3)Approaches for coping with load
 
 ### 4.Maintainability
-#### Operability
-#### Simplicity
-#### Evolvability
+#### 1)Operability
+#### 2)Simplicity
+#### 3)Evolvability
