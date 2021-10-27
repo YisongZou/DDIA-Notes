@@ -10,7 +10,7 @@ systematic failure
 
 ### 3.Scalability
 #### 1)Describling load
-***The example of Twitter: p11-p13
+*** The example of Twitter: p11-p13
 #### 2)Describing performance
 #### 3)Approaches for coping with load
 
