@@ -6,14 +6,18 @@
 #### 2.Reliability
 * Hardware Faults
 * Software Errors
+
 `systematic failure`
 * Human Errors
 
 #### 3.Scalability
 * Describling load
+
 `The example of Twitter: p11-p13`
 * Describing performance
+
 `Latency, response time and service time difference: p14`
+
 `Percentiles in pratice p16`
 * Approaches for coping with load
 
