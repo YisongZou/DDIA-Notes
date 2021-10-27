@@ -13,7 +13,8 @@
 * Describling load
 `The example of Twitter: p11-p13`
 * Describing performance
-`Latency and response time: p14`
+`Latency, response time and service time difference: p14`
+`Percentiles in pratice p16`
 * Approaches for coping with load
 
 #### 4.Maintainability
