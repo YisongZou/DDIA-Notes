@@ -2,7 +2,7 @@
 
 #### 1. Realtional Model Versus Document Model
 * The birth of NoSQL
-* The Object-Relational mismatch```Bill Gates Linkedin profile representation in different ways```
+* The Object-Relational mismatch```Bill Gates Linkedin profile representation in different ways p31 - p32```
 * Many-To-One and Many-To-Many Relationships
 * Are document databases repeating history?```The network model, the relational model, comparison to document databases```
 *
