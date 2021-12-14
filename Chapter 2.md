@@ -7,5 +7,7 @@
 * Are document databases repeating history?```The network model, the relational model, comparison to document databases```
 * Relational Versus Document Database today```Which data model leads to simpler application code?``` ``` Schema flexibility in the document model``` ```Data locality for queries ```   ```Convergence of document and relational database```
 #### 2.Query Languages for Data
-*Declarative queries on the web
+* Declarative queries on the web
+* MapReduce Querying 刚看完
+* 
 #### 3.Graph-Like data models
