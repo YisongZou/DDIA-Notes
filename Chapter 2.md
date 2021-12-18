@@ -11,4 +11,7 @@
 * MapReduce Querying
 #### 3.Graph-Like data models
 * Property Graphs
-* 
+* The Cypher Query Language
+* Graph queries in SQL
+* Triple-Stores and SPARQL``` ```
+
