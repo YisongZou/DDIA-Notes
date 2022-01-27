@@ -13,5 +13,5 @@
 * Property Graphs
 * The Cypher Query Language
 * Graph queries in SQL
-* Triple-Stores and SPARQL ```The semantic web:The Resource Description Framework(RDF)``` ```The RDF data model``` ```The SPARQL language'''
+* Triple-Stores and SPARQL ```The semantic web:The Resource Description Framework(RDF)``` ```The RDF data model``` ```The SPARQL language```
 * The foundation: Datalog
