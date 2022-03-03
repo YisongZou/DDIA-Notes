@@ -1,5 +1,9 @@
 > Chapter 2 Data Models and Query Languages
 
+Relational database, document database, graph database
+(Details inside chapter summary of the book)
+
+
 #### 1. Realtional Model Versus Document Model
 * The birth of NoSQL
 * The Object-Relational mismatch```Bill Gates Linkedin profile representation in different ways p31 - p32```
