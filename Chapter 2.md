@@ -1,6 +1,6 @@
 > Chapter 2 Data Models and Query Languages
 
-*** Different between Relational database, document database, graph database
+* Different between Relational database, document database, graph database
 (Details inside chapter summary of the book)
 
 
