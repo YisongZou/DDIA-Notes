@@ -11,6 +11,6 @@
 * Stars and Snowflakes: Schemas for Analytics
 #### 3. Column-Oriented Storage
 * Column compression ``` Memory bandwidth and vectorized processing ```
-* Sort order in Column storage
+* Sort order in Column storage ``` Several different sort orders ```
 * Writing to Column-Oriented storage
 * Aggregation: Data Cubes and Materialized Views
