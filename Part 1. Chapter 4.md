@@ -7,7 +7,7 @@
 * Thrift and Protocol Buffers
 `Field tags and schema evolution` `Datatypes and schema evolution`
 * Avro
-`The writer's schema and reader's schema`
+`The writer's schema and reader's schema` `Schema evolution rules` `But what is the writer's schema` `Dynamically generated schemas` `Code generation and dynamically typed languages`
 * The merits of Schemas
 #### 2. Modes of Dataflow
 * Dataflow Through Databases
