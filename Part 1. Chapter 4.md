@@ -2,9 +2,8 @@
 
 #### 1. Formats for Encoding Data 
 * Language-Specific Formats
-```
-```
 * JSON, XML and Binary Variants
+`Binary Encoding`
 * Thrift and Protocol Buffers
 * Avro
 * The merits of Schemas
