@@ -5,6 +5,7 @@
 * JSON, XML and Binary Variants
 `Binary Encoding`
 * Thrift and Protocol Buffers
+`Field tags and schema evolution``Datatypes and schema evolution`
 * Avro
 * The merits of Schemas
 #### 2. Modes of Dataflow
