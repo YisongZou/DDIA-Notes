@@ -11,5 +11,6 @@
 * The merits of Schemas
 #### 2. Modes of Dataflow
 * Dataflow Through Databases
+`Different values written at different times` 
 * Dataflow through Services: Rest and RPC
 * Message-Passing Dataflow
