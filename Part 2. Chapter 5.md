@@ -5,6 +5,7 @@
 ` Three popular algorithms for replicating changes between nodes: single-leader, multi-leader, and leaderless `
 #### 1.Leaders and followers
 * Synchronous Versus Asynchronous Replication
+* 
 * Setting up New Followers
 * Handling Node Outages
 * Implementation of Replication Logs
