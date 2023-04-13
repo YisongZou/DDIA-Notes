@@ -1,6 +1,6 @@
-> Part1: Foundations of data systems 
+> Part2: Distributed Data 
 
-> Chapter 1 Reliable, Scalable, and Maintainable Applications
+> Chapter 5 Replication
 #### 1.Thinking about data systems
 
 #### 2.Reliability
