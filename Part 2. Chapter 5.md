@@ -7,8 +7,10 @@
 * Synchronous Versus Asynchronous Replication
 * Setting up New Followers
 * Handling Node Outages
-` Follower failure: Catch-up recovery` 
+` Follower failure: Catch-up recovery` `Leader failure: Failover` 
 * Implementation of Replication Logs
+` Statement-based replication(Not used that much recently ` ` Write-ahead log (WAL) shipping ` ` Logical (row-based) log replication `
+` Trigger-based replication`
 
 #### 2.Problems with replication lag
 * Reading your own Writes
