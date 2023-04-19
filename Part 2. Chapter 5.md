@@ -12,7 +12,7 @@
 ` Statement-based replication(Not used that much recently ` ` Write-ahead log (WAL) shipping ` ` Logical (row-based) log replication `
 ` Trigger-based replication`
 
-#### 2.Problems with replication lag
+#### 2.Problems with replication lag <-
 * Reading your own Writes
 * Monotonic Reads
 * Consistent Prefix Reads
