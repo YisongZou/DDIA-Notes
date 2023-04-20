@@ -12,14 +12,16 @@
 ` Statement-based replication(Not used that much recently ` ` Write-ahead log (WAL) shipping ` ` Logical (row-based) log replication `
 ` Trigger-based replication`
 
-#### 2.Problems with replication lag <-
+#### 2.Problems with replication lag
 * Reading your own Writes
+` Need read-after-write consistency, listed possible techniques` 
 * Monotonic Reads
 * Consistent Prefix Reads
 * Solutions for Replication Lag
 
 #### 3.Multi-Leader Replication
 * Use Cases for Multi-Leader Replication
+`
 * Handling Write Conflicts
 * Multi-Leader Replication Topologies
 
