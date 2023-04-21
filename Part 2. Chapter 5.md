@@ -19,9 +19,8 @@
 * Consistent Prefix Reads
 * Solutions for Replication Lag
 
-#### 3.Multi-Leader Replication
+#### 3.Multi-Leader Replication <-
 * Use Cases for Multi-Leader Replication
-`
 * Handling Write Conflicts
 * Multi-Leader Replication Topologies
 
