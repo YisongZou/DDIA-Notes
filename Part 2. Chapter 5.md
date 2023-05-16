@@ -19,10 +19,14 @@
 * Consistent Prefix Reads
 * Solutions for Replication Lag
 
-#### 3.Multi-Leader Replication <-
+#### 3.Multi-Leader Replication
 * Use Cases for Multi-Leader Replication
+` Multi-datacenter operation ` ` Clients with offline operation ` `Collaborative editing `
 * Handling Write Conflicts
+` Synchronous versus asynchronous conflict detection ` ` conflict avoidance ` ` Converging toward a consistent state ` `Custom conflict resolution logic `
+` What is a conflict `
 * Multi-Leader Replication Topologies
+
 
 #### 4.Leaderless Replication
 * Writing to the Database when a node is down
