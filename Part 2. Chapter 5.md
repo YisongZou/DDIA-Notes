@@ -27,9 +27,12 @@
 ` What is a conflict `
 * Multi-Leader Replication Topologies
 
-
 #### 4.Leaderless Replication
 * Writing to the Database when a node is down
+` Read repair and anti-entropy ` `  Quorums for reading and writing `
 * Limitations of Quorum Consistency
+` Monitoring staleness ` 
 * Sloppy Quorums and Hinted Handoff
+` Multi-datacenter operation `
 * Detecting Concurrent Writes
+
