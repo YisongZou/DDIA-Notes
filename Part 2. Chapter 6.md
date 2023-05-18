@@ -1,9 +1,19 @@
-> Part2: Distributed Data 
+> Chapter 6 Partitioning
 
-> Chapter 5 Replication (Assuming the dataset is small and each machine can hold a copy of entire dataset)
+#### 1.Partitioning and Replication
 
-` Three popular algorithms for replicating changes between nodes: single-leader, multi-leader, and leaderless `
-#### 1.Leaders and followers
-* Synchronous Versus Asynchronous Replication
-* Setting up New Followers
-* Handling Node Outages
+#### 2.Partitioning of Key-Value Data
+* Partitioning by Key Range
+* Partitioning by Hash of Key
+* Skewed Workloads and Relieving Hot Spots
+
+#### 2.Partitioning and secondary indexes
+* Partitioning secondary indexes by Document
+* Partitioning secondary indexes by Term
+
+#### 3. Rebalancing Partitions
+* Stategies for Rebalancing
+* Operations: Automatic or Manual Rebalancing
+
+#### 4. Request Routing
+* Parallel Query Execution
