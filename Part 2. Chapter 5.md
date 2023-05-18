@@ -35,4 +35,4 @@
 * Sloppy Quorums and Hinted Handoff
 ` Multi-datacenter operation `
 * Detecting Concurrent Writes
-
+` Last write wins(Discarding concurrent writes) ` ` The "Happens-before" relationship and concurrency `
