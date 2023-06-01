@@ -5,8 +5,7 @@
 #### 2.Partitioning of Key-Value Data
 * Partitioning by Key Range
 * Partitioning by Hash of Key
-
-* Skewed Workloads and Relieving Hot Spots
+* Skewed Workloads and Relieving Hot Spots<-
 
 #### 2.Partitioning and secondary indexes
 * Partitioning secondary indexes by Document
