@@ -5,6 +5,7 @@
 #### 2.Partitioning of Key-Value Data
 * Partitioning by Key Range
 * Partitioning by Hash of Key
+` Cassandra compound primary key approach `
 * Skewed Workloads and Relieving Hot Spots
 
 #### 2.Partitioning and secondary indexes<-
