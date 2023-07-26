@@ -14,7 +14,7 @@
 
 #### 3. Rebalancing Partitions
 * Stategies for Rebalancing
-` How not to do it: hash mod N ` ` Fixed number of partitions ` ` Dynamic partitioning <-` 
+` How not to do it: hash mod N ` ` Fixed number of partitions ` ` Dynamic partitioning ` `Partitioning proportionally to nodes ` 
 * Operations: Automatic or Manual Rebalancing
 
 #### 4. Request Routing
