@@ -9,6 +9,8 @@ make several writes, but a fault occurs after some of the writes have been proce
 If the writes grouped together into an atomic transaction, and the txn cannot be
 completed (committed) due to a fault, then the txn is aborted and the database must
 discard or undo any writes it has made so far in the txn.` 
+`Consistency: You have certain statements about your data(invariants) that should always be true. For example, when you transfer money from one account to another, the total amount of money of the two accounts adds together should always remain the same.`
+
 
 * Single-Object and Multi-Object Operations
 #### 2.Weak Isolation Levels
