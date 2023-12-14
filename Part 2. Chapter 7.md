@@ -3,6 +3,7 @@
 
 #### 1.The Slippery Concept of a Transaction
 * The meaning of ACID
+
 `Automicity: It is not related to concurrency. Describes if a client wants to
 make several writes, but a fault occurs after some of the writes have been processed.
 If the writes grouped together into an atomic transaction, and the txn cannot be
