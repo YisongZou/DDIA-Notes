@@ -1,4 +1,4 @@
- > Chapter 7 Transactions
+> Chapter 7 Transactions
 `The chapter applies to both single node and distributed databases`
 
 #### 1.The Slippery Concept of a Transaction
