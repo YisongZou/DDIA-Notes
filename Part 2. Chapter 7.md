@@ -19,8 +19,7 @@ discard or undo any writes it has made so far in the txn.`
 * Single-Object and Multi-Object Operations `Single object writes` `The need for multi-object transactions`  `Handling error and aborts` 
 
 #### 2.Weak Isolation Levels
-* Read Committed `No dirty reads` 
-
+* Read Committed `No dirty reads` `No dirty writes` `Implementing read committed` 
 * Snapshot Isolation and repeatable read
 * Preventing Lost Updates
 * Write skew and Phantoms
