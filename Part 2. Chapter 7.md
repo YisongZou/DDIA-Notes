@@ -16,10 +16,11 @@ discard or undo any writes it has made so far in the txn.`
 
 `Durability: Once a transaction has been committed successfully, any data that has written will not be forgotten, even if there is a hardware fault or the database crashes`
 
-* Single-Object and Multi-Object Operations `Single object writes < `
+* Single-Object and Multi-Object Operations `Single object writes` `The need for multi-object transactions`  `Handling error and aborts` 
 
 #### 2.Weak Isolation Levels
-* Read Committed
+* Read Committed `No dirty reads` 
+
 * Snapshot Isolation and repeatable read
 * Preventing Lost Updates
 * Write skew and Phantoms
