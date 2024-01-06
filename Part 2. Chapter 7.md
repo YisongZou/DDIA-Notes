@@ -22,7 +22,7 @@ discard or undo any writes it has made so far in the txn.`
 * Read Committed `No dirty reads(A txn should not see the uncommitted result of another txn)(About what a read-only txn can see in the presence of concurrent writes)` `No dirty writes(A txn should not overwrite the uncommitted value of another write txn, however this does not prevent the race condition between two counter increments)` `Implementing read committed` 
 * Snapshot Isolation and repeatable read(About what a read-only txn can see in the presence of concurrent writes, eg: someone transfers money from one of his account to another, he happens to read the money amount of account 1 while the txn is not yet committed, after the transfer he will see account 1 money does not change while the money in account 2 has increased by the change )`Implementing snapshot isolation` `Visibility rules for observing a consistent snapshot(MVCC, multi-version concurrency control)`
 `Indexes and snapshot isolation` `Repeatable read and naming confusion`  
-* Preventing Lost Updates
+* Preventing Lost Updates(Write-write conflicts) `Automic write operations` `Explicit locking` 
 * Write skew and Phantoms
 #### 3.Serializability
 * Actual Serial Execution
