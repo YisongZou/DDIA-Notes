@@ -19,7 +19,7 @@ discard or undo any writes it has made so far in the txn.`
 * Single-Object and Multi-Object Operations `Single object writes` `The need for multi-object transactions`  `Handling error and aborts` 
 
 #### 2.Weak Isolation Levels
-* Read Committed(About what a read-only txn can see in the presence of concurrent writes) `No dirty reads` `No dirty writes` `Implementing read committed` 
+* Read Committed(About what a read-only txn can see in the presence of concurrent writes) `No dirty reads(A txn should not see the uncommitted result of another txn` `No dirty writes(A txn should not overwrite the uncommitted value of another write txn` `Implementing read committed` 
 * Snapshot Isolation and repeatable read(About what a read-only txn can see in the presence of concurrent writes)`Implementing snapshot isolation` `Visibility rules for observing a consistent snapshot(MVCC, multi-version concurrency control)`
 `Indexes and snapshot isolation` `Repeatable read and naming confusion`  
 * Preventing Lost Updates
