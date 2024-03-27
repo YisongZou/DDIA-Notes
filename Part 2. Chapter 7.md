@@ -1,4 +1,4 @@
-> Chapter 7 Transactions
+> Chapter 7 Transactions(There is a race condition type summary inside summary part)
 `The chapter applies to both single node and distributed databases`
 
 #### 1.The Slippery Concept of a Transaction
@@ -25,7 +25,7 @@ discard or undo any writes it has made so far in the txn.`
 `Indexes and snapshot isolation` `Repeatable read and naming confusion`  
 * Preventing Lost Updates(Write-write conflicts) (Read-modify-write cycle caused data to be lost) Solutions:`Automic write operations` `Explicit locking` `Automatically
 detecting lost updates` `Compare and set` `Conflict resolution and replication`
-* Write skew and Phantoms<-Start from here next time
+* Write skew and Phantoms
 #### 3.Serializability
 * Actual Serial Execution
 * Two-phase locking (2PL)
