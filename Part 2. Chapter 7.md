@@ -27,7 +27,6 @@ discard or undo any writes it has made so far in the txn.`
 detecting lost updates` `Compare and set` `Conflict resolution and replication`
 * Write skew and Phantoms `Characterizing write skew` `More examples of write skew` `Phantoms causing write skew` `Materializing conflicts` 
 #### 3.Serializability
-* Actual Serial Execution `Encapsulating transactions in stored procedures` `Pros and cons of stored procedures` `Partitioning` 
-* Two-phase locking (2PL)
-* Serializable Snapshot Isolation(SSL)
-`  `
+* Actual Serial Execution `Encapsulating transactions in stored procedures` `Pros and cons of stored procedures` `Partitioning` `Summary of serial execution `
+* Two-phase locking (2PL) `Implementation of two phase locking` `Performance of two phase locking` `Predicate locks` `Index-range locks`
+* Serializable Snapshot Isolation(SSI) <-Next time start from here
