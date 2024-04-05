@@ -1,7 +1,7 @@
 > Chapter 8 The trouble with distributed systems
 
-#### 1.Faults and Partila failures
-* Cloud computing and supercomputing `A` 
+#### 1.Faults and Partial failures
+* Cloud computing and supercomputing(This book focus on system implementing internet services)
 
 #### 2.Unreliable networks
 * Network faults in practice
