@@ -1,22 +1,21 @@
 > Chapter 9 Consistency and consensus
 
-#### 1.Faults and Partial failures
-* Cloud computing and supercomputing(This book focus on system implementing internet services)
+#### 1.Consistency Guarantees
 
-#### 2.Unreliable networks
-* Network faults in practice
-* Detecting faults
-* Timeouts and Unbounded delays
-* Synchronous Versus Asynchronous Networks
+#### 2.Linearizability
+* What makes a system linearizable?
+* Relying on Linearizability
+* Implementing linearizable systems
+* The cost of Linearizability
 
-#### 3.Unreliable clocks
-* Monotonic Versus Time-of-day clocks
-* Clock synchronozation and Accuracy
-* Relying on synchronized clocks
-* Process Pauses
+#### 3.Ordering Guarantees
+* Ordering and casuality
+* Sequence number ordering
+* Total order Broadcast
 
-#### 4.Knowledge, truth and lies
-* The truth is defined by the majority
-* Byzantine Faults
-* System Model and Reality
+#### 4.Distributed Transactions and Consensus
+* Automic Commit and Two-Phase commit(2PC)
+* Distributed transactions in practice
+* Fault-Tolerant Consensus
+* Membership and Coordination Services
 
