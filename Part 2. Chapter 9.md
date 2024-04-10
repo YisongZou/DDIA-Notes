@@ -1,6 +1,8 @@
 > Chapter 9 Consistency and consensus
 
 #### 1.Consistency Guarantees
+(Summarize this chapter, basically talks about distributed consistency models.
+Unlike chapter 7 which talks about transaction isolation levels)
 
 #### 2.Linearizability
 * What makes a system linearizable?
