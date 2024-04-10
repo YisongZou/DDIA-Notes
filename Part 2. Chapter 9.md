@@ -5,17 +5,18 @@
 Unlike chapter 7 which talks about transaction isolation levels)
 
 #### 2.Linearizability
-* What makes a system linearizable?
-* Relying on Linearizability
+* What makes a system linearizable?`The difference between linearizability and serializability`
+* Relying on Linearizability`Locking and leader election` `Constraints and uniqueness guarantees`
+  `Cross-channel timing dependencies` 
 * Implementing linearizable systems
 * The cost of Linearizability
 
-#### 3.Ordering Guarantees
+#### 3.Ordering Guarantees(The issue of ordering events in distributed system)
 * Ordering and casuality
 * Sequence number ordering
 * Total order Broadcast
 
-#### 4.Distributed Transactions and Consensus
+#### 4.Distributed Transactions and Consensus(How to atomically commit a distributed transaction)
 * Automic Commit and Two-Phase commit(2PC)
 * Distributed transactions in practice
 * Fault-Tolerant Consensus
