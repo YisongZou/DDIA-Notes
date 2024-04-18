@@ -1,10 +1,19 @@
-> Part2: Distributed Data 
+> Part3: Derived Data 
 
-> Chapter 5 Replication (Assuming the dataset is small and each machine can hold a copy of entire dataset)(We are focusing on shared-nothing systems connected by network in this book)
+> Chapter 10 Batch Processing
 
-` Three popular algorithms for replicating changes between nodes: single-leader, multi-leader, and leaderless `
-#### 1.Leaders and followers
-* Synchronous Versus Asynchronous Replication
-* Setting up New Followers
-* Handling Node Outages
-` Follower failure: Catch-up recovery` `L
+#### 1.Batch processing with Unix tools
+* Simple log Analysis
+* The Unix Philosophy
+
+#### 2.MapReduce and Distributed Filesystems
+* MapReduce job Execution
+* Reduce-side Joins and Grouping
+* Map-side Joins
+* The Output of Batch Workflows
+* Comparing Hadoop to Distributed database
+
+#### 3.Beyond MapReduce
+* Materialization of Intermediate State
+* Graphs and Iterative Processing
+* High-Level APIs and Languages
