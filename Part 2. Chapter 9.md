@@ -22,7 +22,7 @@ consistency` `Capturing causal dependencies`
 #### 4.Distributed Transactions and Consensus(How to atomically commit a distributed transaction)
 * Automic Commit and Two-Phase commit(2PC) `From single-node to distributed automic commit`A
   `Introducing to two-phase commit` `A System of promises` `Coordinator failure` `Three phae commit`
-* Distributed transactions in practice
+* Distributed transactions in practice `Exactly-once message procesing` `XA transactions` `Holding locks while in doubt` `Recovering from coordinator failure` `Limitations for distributed transactions`
 * Fault-Tolerant Consensus
 * Membership and Coordination Services
 
