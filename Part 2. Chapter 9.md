@@ -1,4 +1,4 @@
-  > Chapter 9 Consistency and consensus
+  >  Chapter 9 Consistency and consensus
 
 #### 1.Consistency Guarantees
 (Summarize this chapter, basically talks about distributed consistency models.
