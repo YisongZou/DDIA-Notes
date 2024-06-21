@@ -23,6 +23,7 @@ consistency` `Capturing causal dependencies`
 * Automic Commit and Two-Phase commit(2PC) `From single-node to distributed automic commit`A
   `Introducing to two-phase commit` `A System of promises` `Coordinator failure` `Three phae commit`
 * Distributed transactions in practice `Exactly-once message procesing` `XA transactions` `Holding locks while in doubt` `Recovering from coordinator failure` `Limitations for distributed transactions`
-* Fault-Tolerant Consensus
-* Membership and Coordination Services
+* Fault-Tolerant Consensus ` Conesensus algorithm satisfy the following: Uniform agreement, Integrity, Validity, Termination` ` Conesensus algorithms and total order broadcast` ` Single leader replication and consensus`
+`Epoch numbering and quorums` `Limitations of consensus` 
+* Membership and Coordination Services `Allocating work to nodes` ` Service discovery` `Membership services`
 
