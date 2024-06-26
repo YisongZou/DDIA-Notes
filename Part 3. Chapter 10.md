@@ -2,6 +2,13 @@
 
 > Chapter 10 Batch Processing
 
+```
+Three different types of systems
+Services(online systems)
+Batch processing systems(offline systems)
+Stream processing systems(near-real-time systems)
+```
+
 #### 1.Batch processing with Unix tools
 * Simple log Analysis
 * The Unix Philosophy
