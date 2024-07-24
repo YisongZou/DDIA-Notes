@@ -14,8 +14,8 @@ Stream processing systems(near-real-time systems)
 * The Unix Philosophy `A uniform interface` `Separation of logic and wiring` `Transparency and experimentation`
 
 #### 2.MapReduce and Distributed Filesystems
-* MapReduce job Execution <- Start here next time
-* Reduce-side Joins and Grouping
+* MapReduce job Execution `Distributed execution of MapReduce`  `MapReduce workflows` 
+* Reduce-side Joins and Grouping <- Start here next time
 * Map-side Joins
 * The Output of Batch Workflows
 * Comparing Hadoop to Distributed database
