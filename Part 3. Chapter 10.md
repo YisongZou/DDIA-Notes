@@ -15,7 +15,7 @@ Stream processing systems(near-real-time systems)
 
 #### 2.MapReduce and Distributed Filesystems
 * MapReduce job Execution `Distributed execution of MapReduce`  `MapReduce workflows` 
-* Reduce-side Joins and Grouping <- Start here next time
+* Reduce-side Joins and Grouping `Example: analysis of user activity events`<-Here
 * Map-side Joins
 * The Output of Batch Workflows
 * Comparing Hadoop to Distributed database
