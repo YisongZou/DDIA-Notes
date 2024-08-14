@@ -18,9 +18,9 @@ Stream processing systems(near-real-time systems)
 * Reduce-side Joins and Grouping `Example: analysis of user activity events` `Sort-merge joins` `Bringing related data together in the same place` `Group by` `Handling skew`
 * Map-side Joins `Broadcast hash joins` `Partitioned hash joins` `Map-side merge joins` `MapReduce workflows with map-side joins` 
 * The Output of Batch Workflows `Building search indexes` `Key-value stores as batch process output` `Philosophy of batch process outputs`
-* Comparing Hadoop to Distributed database `Diversity of storage` `Diversity of processing models` `Designing for frequent faults` <-Here
+* Comparing Hadoop to Distributed database `Diversity of storage` `Diversity of processing models` `Designing for frequent faults`
 
 #### 3.Beyond MapReduce
-* Materialization of Intermediate State
-* Graphs and Iterative Processing
-* High-Level APIs and Languages
+* Materialization of Intermediate State `Dataflow engines(Spark, Flink)` `Fault tolerance` `Discussion of materialization` `
+* Graphs and Iterative Processing `The Pregel processing model` `Fault tolerance` `Parallel execution`
+* High-Level APIs and Languages` The move toward declarative query languages` `Specialization for different domains`
