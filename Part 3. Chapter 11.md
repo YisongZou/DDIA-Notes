@@ -4,6 +4,7 @@
 
 #### 1.Transmitting Event Streams
 * Messaging Systems `Direct messaging from producers to consumers` `Message Brokers(Message queue)` `Message brokers compared to databases`
+`Multiple consumers`
 * Partitioned Logs
 
 #### 2.Database and Streams
