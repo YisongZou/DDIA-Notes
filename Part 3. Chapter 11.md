@@ -1,6 +1,6 @@
 > Chapter 11 Stream Processing
 
-'''Processing every event as it happens'''
+`Processing every event as it happens`
 
 #### 1.Transmitting Event Streams
 * Messaging Systems
