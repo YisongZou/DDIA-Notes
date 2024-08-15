@@ -3,7 +3,7 @@
 `Processing every event as it happens`
 
 #### 1.Transmitting Event Streams
-* Messaging Systems
+* Messaging Systems `Direct messaging from producers to consumers` `Message Brokers(Message queue)` `Message brokers compared to databases`
 * Partitioned Logs
 
 #### 2.Database and Streams
