@@ -11,7 +11,7 @@
 #### 2.Database and Streams
 * Keeping Systems in Sync
 * Change Data Capture `Implementing change data capture` `Initial snapshot` `Log compaction` `API support for change streams` 
-* Event Sourcing
+* Event Sourcing `Deriving current state from the event log` `Command and events` 
 * State, Streams, and Immutability
 
 #### 3.Processing Streams
