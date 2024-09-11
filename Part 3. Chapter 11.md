@@ -15,7 +15,7 @@
 * State, Streams, and Immutability `Advantages of immutable events` `Deriving several views from the same event log` `Limitations of immutability`
 
 #### 3.Processing Streams
-* Use of Stream Processing<-Start here next time
+* Uses of Stream Processing `Complex event processing` `Stream analytics` `Maintaining materialized views` 
 * Reasoning About Time
 * Stream Joins
 * Fault Tolerance
