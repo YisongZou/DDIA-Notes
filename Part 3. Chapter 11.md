@@ -12,7 +12,7 @@
 * Keeping Systems in Sync
 * Change Data Capture `Implementing change data capture` `Initial snapshot` `Log compaction` `API support for change streams` 
 * Event Sourcing `Deriving current state from the event log` `Command and events` 
-* State, Streams, and Immutability
+* State, Streams, and Immutability `Advantages of immutable events` `Deriving several views from the same event log` `Limitations of immutability`
 
 #### 3.Processing Streams
 * Use of Stream Processing
