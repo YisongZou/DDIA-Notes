@@ -15,7 +15,7 @@
 * State, Streams, and Immutability `Advantages of immutable events` `Deriving several views from the same event log` `Limitations of immutability`
 
 #### 3.Processing Streams
-* Use of Stream Processing
+* Use of Stream Processing<-Start here next time
 * Reasoning About Time
 * Stream Joins
 * Fault Tolerance
