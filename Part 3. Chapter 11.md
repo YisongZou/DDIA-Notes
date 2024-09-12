@@ -15,7 +15,10 @@
 * State, Streams, and Immutability `Advantages of immutable events` `Deriving several views from the same event log` `Limitations of immutability`
 
 #### 3.Processing Streams
-* Uses of Stream Processing `Complex event processing` `Stream analytics` `Maintaining materialized views` 
-* Reasoning About Time
-* Stream Joins
-* Fault Tolerance
+* Uses of Stream Processing `Complex event processing` `Stream analytics` `Maintaining materialized views` `Search on streams`
+`Message passing and RPC` 
+* Reasoning About Time `Event time versus processing time` `Knowing when you are ready` `Whose clock are you using, anyway?`
+`Types of windows` 
+* Stream Joins `Stream-stream join(window join)` `Stream-table join(stream enrichment)` `Table-table join(materialized view maintenance)`
+`Time dependence of joins` 
+* Fault Tolerance(Skipped through)
